@@ -5,6 +5,8 @@
 This is a prototype software to run as a front-end for an Orange Model. 
 The model needs to be already trained in the Orange Data Mining software.
 
+For a convenient test, you may want to download the SmartPrognostics.jar file and run the command: java -jar SmartPrognostics.jar in the command line and test with the models and csv available in the "resources" folder.
+
 1) Choose an Orange file model with extension .pkcls
    
    <img src="https://github.com/user-attachments/assets/3518e176-1a31-4b9d-a8c2-b9d34605fc92" alt="screenshot1" width="500">
@@ -17,4 +19,6 @@ The model needs to be already trained in the Orange Data Mining software.
 
 4) The result of this output can be saved to a file.
 
+# Acknowledgements
+This project has been partially funded by FAPEMIG, CAPES and CNPq.
    
